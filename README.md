@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himanshucoder18
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning C programming and Java together
-- 💞️ I’m looking to collaborate on Coding projects
+- 👀 I’m final year student at Quantum University
+- 🌱 I’m currently mastering DSA with Java
+- 💞️ I’m looking to collaborate on projects that might help me and you grow toghether.
 - 📫 How to reach me hkumar54321s@gmail.com
 
 <!---
